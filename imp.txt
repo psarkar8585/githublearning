@@ -1,0 +1,31 @@
+Some interview qustions asked
+
+give me your intro
+what is c++
+about your final year project
+your project
+what is python scope
+functions
+disadvantage 
+advantage 
+what is dbms
+index
+what is oops
+4 pilar of oops
+scope
+disadvantage 
+example
+advantage
+static and dynamic polymorphism
+what is html and css
+functions
+call by reference and call by value
+error expectation
+types of inheritence
+
+what kind of technology you know
+bubble sort
+selection sort
+binary search
+liner search
+
